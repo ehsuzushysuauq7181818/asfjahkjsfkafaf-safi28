@@ -1,7 +1,7 @@
 enforce_secure_profile: false
 listeners:
 - query_port: 25577
-  motd: '&c&lDREADPIXEL &f[1.8-1.20] &a❖ Skyblock &fWinter Event! &f| &a✦ Limited Event ✦  &b  Beta Release &f| &7play.dreadpixel.xyz&r\n'
+  motd: '&d&lDREADPIXEL &f[1.8-1.20] &a❖ Skyblock &fWinter Event! &f| &a✦ Limited Event ✦  &b  Beta Release &f| &7play.dreadpixel.xyz&r\n'
   tab_list: GLOBAL_PING
   query_enabled: false
   proxy_protocol: false
